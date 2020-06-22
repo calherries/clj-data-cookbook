@@ -1,4 +1,4 @@
-Pandas cookbook
+Clojure Data Cookbook
 ===============
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jvns/pandas-cookbook/master)
