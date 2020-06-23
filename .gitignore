@@ -1,3 +1,4 @@
 .jupyter
 pandas-cookbook/.ipynb_checkpoints
 clj-cookbook/.ipynb_checkpoints
+*.log
